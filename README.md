@@ -1,4 +1,5 @@
 # Sistema de Gestão Financeira - API
+O nosso API tem como intuito e publico alvo, pessoas que tem problemas financeiros e não tem noção de para onde está indo o proprio dinheiro.
 
 ## Instalação
 
